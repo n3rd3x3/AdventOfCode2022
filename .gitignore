@@ -1,3 +1,2 @@
-Day1.txt
-Day2.txt
+*.txt
 .idea/*
